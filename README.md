@@ -18,4 +18,4 @@ merges the train and test data into a single files for analysis
 appends the subject ID to the appropriate row of data
 changes the data column names to descriptive names
 changes the activity data to descriptive names
-produces an aggregated tidy data file of activities by <subject></subject>
+produces an aggregated tidy data file of activities.
